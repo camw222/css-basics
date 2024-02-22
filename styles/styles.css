@@ -1,0 +1,46 @@
+h1 {
+    color: purple;
+}
+
+p{
+    color:red;
+}
+
+body{
+    background-color: palevioletred;
+}
+.purple-text{
+    color:purple;
+}
+.important {
+    font-weight:bold;
+}
+a[href="https://chl.ca/whl-thunderbirds/"]{
+    background-color: green;
+}
+a[href="https://www.purina.co.uk/articles/cats/behaviour/common-questions/fun-facts-about-cats"]{
+    background-color: orange;
+    padding: 1rem;
+}
+
+#lead-paragraph{
+    color:purple;
+    font-weight:bold;
+}
+.important:hover {
+    background-color: palegreen;
+}
+h1 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: palegreen;
+}
+p.important {
+    width: 75%;
+}
+img {
+    border-style: double;
+    border-color: seashell;
+    border-width: 3px;
+    width: 25%;
+}
